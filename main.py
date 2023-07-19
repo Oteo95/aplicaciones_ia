@@ -19,7 +19,7 @@ start = time.time()
 
 st.set_page_config(
     layout="wide",
-    page_title="Conan + myGPT",
+    page_title="Aplicaciones de la IA",
     page_icon=":robot_face:",
 )
 st.title("Aplicaciones de la IA")
